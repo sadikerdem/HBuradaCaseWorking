@@ -1,0 +1,20 @@
+[19-10-20 17:49:19.150{GMT+3}] DEBUG main  devpinoyLogger - Config file loaded !!!
+[19-10-20 17:49:22.774{GMT+3}] DEBUG main  devpinoyLogger - Chrome Launched !!!
+[19-10-20 17:49:24.649{GMT+3}] DEBUG main  devpinoyLogger - Navigated to : https://www.hepsiburada.com/
+[19-10-20 17:49:26.913{GMT+3}] DEBUG main  devpinoyLogger - Inside hepsiburada Test
+[19-10-20 17:49:26.941{GMT+3}] INFO  main  devpinoyLogger - Home page opened succesfuly.
+[19-10-20 17:49:27.574{GMT+3}] INFO  main  devpinoyLogger - Search word entered.
+[19-10-20 17:49:28.655{GMT+3}] INFO  main  devpinoyLogger - Clicked search button.
+[19-10-20 17:49:31.197{GMT+3}] INFO  main  devpinoyLogger - Search Result page opened succesfuly.
+[19-10-20 17:49:38.471{GMT+3}] INFO  main  devpinoyLogger - Clicked 18. random product.
+[19-10-20 17:49:41.012{GMT+3}] INFO  main  devpinoyLogger - Product Detail page opened succesfuly.
+[19-10-20 17:49:41.990{GMT+3}] INFO  main  devpinoyLogger - Clicked reviews tab.
+[19-10-20 17:49:44.037{GMT+3}] INFO  main  devpinoyLogger - Review exists at least one.
+[19-10-20 17:49:52.749{GMT+3}] INFO  main  devpinoyLogger - First review helpful-yes button clicked.
+[19-10-20 17:49:54.189{GMT+3}] INFO  main  devpinoyLogger - Feedback notice: 'Tesekkur Ederiz.' has been successfuly shown.
+[19-10-20 17:49:54.689{GMT+3}] DEBUG main  devpinoyLogger - Hepsiburada test successfully completed.
+[19-10-20 17:49:54.699{GMT+3}] DEBUG main  devpinoyLogger - Inside hepsiburada api Test
+[19-10-20 17:49:56.661{GMT+3}] INFO  main  devpinoyLogger - Status code is 200(OK) for Get method!
+[19-10-20 17:49:57.985{GMT+3}] INFO  main  devpinoyLogger - Status code is 200(OK) for Post method!
+[19-10-20 17:49:58.486{GMT+3}] DEBUG main  devpinoyLogger - Hepsiburada api test successfully completed.
+[19-10-20 17:49:59.145{GMT+3}] DEBUG main  devpinoyLogger - test execution completed !!!
